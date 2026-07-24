@@ -47,3 +47,7 @@ if num % 2 == 0:
 else:
    print(f'O valor{num} é Ímpar')
 ```
+
+Olá pequeno gafanhoto 🖖 ✋ 🐒 
+
+[Pra pegar emoji acesse Aqui](https://github.com/ikatyang/emoji-cheat-sheet)
