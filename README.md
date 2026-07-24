@@ -50,4 +50,6 @@ else:
 
 Olá pequeno gafanhoto 🖖 ✋ 🐒 
 
-[Pra pegar emoji acesse Aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+Para pegar emoji para Issues [Acesse Aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Para pegar emoji pra colocar no título da Issue [Acessa Aqui](https://emojipedia.org/)
