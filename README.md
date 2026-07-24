@@ -1,4 +1,4 @@
-# Aula de Markdown
+# Aula de Markdown 🧠 
 Aqui deixo algumas marcações que aprendi na aula do Curso em Vídeo de Git e GitHub 
 # Aula de linguagem Markdown
 ---
