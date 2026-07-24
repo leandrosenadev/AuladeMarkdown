@@ -23,3 +23,16 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber o pagamento
+
+<img width="400" height="448" alt="mascote" src="https://github.com/user-attachments/assets/ddce0c5b-5455-4dac-9cdf-adacdba7b43f" />
+
+[Acesse me GitHub](https://github.com/leandrosenadev)
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10,0
+3 | Maria | 9,0
+4 | Leandro Sena | 10,0
+
+Terminou a tabela
