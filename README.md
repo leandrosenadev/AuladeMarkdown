@@ -36,3 +36,14 @@ Num | Nome | Nota
 4 | Leandro Sena | 10,0
 
 Terminou a tabela
+
+Não entendo direito pra que serve o comando `document.getElementebyId()` da linguagem JavaScript
+
+Olha meu programa de Python
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+   print(f'O valor{num} é Par')
+else:
+   print(f'O valor{num} é Ímpar')
+```
